@@ -12,8 +12,7 @@ This is a simple **Netflix Clone** created using **HTML** and **CSS**. The proje
 - **CSS** 🎨 (for styling and layout)
 
 ## 📸 Preview
+![Netflix Clone Screenshot](https://github.com/hbSrujana/Netflix-clone/blob/main/output1.png?raw=true)
 ![Netflix Clone Screenshot](https://github.com/hbSrujana/Netflix-clone/blob/main/output2.png?raw=true)
 
-
-![Netflix Clone Screenshot](https://github.com/hbSrujana/Netflix-clone/blob/main/output1.png?raw=true)
 
